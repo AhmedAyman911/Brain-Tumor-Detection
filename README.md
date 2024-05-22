@@ -2,7 +2,7 @@ Models:
 https://drive.google.com/drive/folders/1f6grQUbTI0vKSgO99qs0J7pSRWsbR7yb?usp=sharing
 https://drive.google.com/drive/folders/1HDff0aAiGN6Cc5ZiGIcSf4CfekbjBYVE?usp=sharing
 https://drive.google.com/drive/folders/1saIJVrSI8gHYPhaZWgSEfdVaZVcOMLdP?usp=drive_link
-https://drive.google.com/drive/folders/1po6TC0XjzHRi2NMyY321O-dsEffp74WR?usp=drive_link
+https://drive.google.com/drive/folders/1Bn6zj_HmYuCSCGl4P5epv4_XbP6H8ClY?usp=drive_link
 dataset: 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 GUI:
